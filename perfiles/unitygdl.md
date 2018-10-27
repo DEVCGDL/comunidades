@@ -1,4 +1,4 @@
-# GDLJS
+# Unity User Group GDL
 
 ## Lo que hacemos
 
