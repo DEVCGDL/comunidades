@@ -17,4 +17,5 @@ En caso de tener mayor detalles, se incluye un link en el listado hacia un archi
 # Listado de Comunidades
 
 1. [Facebook Developer Circle Guadalajara](perfiles/devcgdl.md)
-1. TechWo
+1. [TechWo](perfiles/techwo.md)
+1. [GDLJS](perfiles/gdljs.md)
