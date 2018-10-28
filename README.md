@@ -21,5 +21,8 @@ En caso de tener mayor detalles, se incluye un link en el listado hacia un archi
 1. [PHPGDL](perfiles/phpgdl.md) 
 1. [J4Guanatos](perfiles/j4guanatos.md)
 1. [TechWo](perfiles/techwo.md)
+1. [GDLJS](perfiles/gdljs.md)
+1. [GeekGirls](perfiles/GeekGirls.md)
 1. [Unity User Group GDL](perfiles/unitygdl.md)
+
 
