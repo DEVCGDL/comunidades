@@ -10,4 +10,5 @@ En  WOMAN LAB  el  mejor apoyo de una mujer, es otra mujer.
 
 ## Redes sociales
 
-https://www.facebook.com/groups/DevCGuadalajara/
+[Facebook](https://www.facebook.com/WomanLabmx/)
+[Website](https://www.womanlab.online)
