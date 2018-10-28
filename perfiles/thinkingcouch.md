@@ -1,4 +1,4 @@
-# WDT
+# Thinking Couch
 
 ## Lo que hacemos
 Inspiration, Design & Creativity in one spot. 
