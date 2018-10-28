@@ -14,7 +14,9 @@ A continuación se encuentra un listado ordenado alfabéticamente de las distint
 
 En caso de tener mayor detalles, se incluye un link en el listado hacia un archivo con información detallada.
 
-# Listado de Comunidades
+# Listado de Comunidades 
+
+## Guadalajara y Alrededores
 
 1. [Facebook Developer Circle Guadalajara](perfiles/devcgdl.md)
 1. [GDLJS](perfiles/gdljs.md) 
@@ -22,7 +24,15 @@ En caso de tener mayor detalles, se incluye un link en el listado hacia un archi
 1. [J4Guanatos](perfiles/j4guanatos.md)
 1. [TechWo](perfiles/techwo.md)
 1. [GDLJS](perfiles/gdljs.md)
+1. [Geek Girls Mx](perfiles/GeekGirls.md) 
 1. [GeekGirls](perfiles/GeekGirls.md)
 1. [Unity User Group GDL](perfiles/unitygdl.md)
 
+## Colima y alrededores
 
+1. [Colima HackLab] (perfiles/ColimaHacklab.md)
+1. [TestingTalks Colima] (perfiles/TestingTalks.md)
+
+## CDMX y alrededores
+
+1. [Girls in tech](perfiles/GirlsInTech.md)
