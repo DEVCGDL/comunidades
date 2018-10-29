@@ -14,10 +14,35 @@ A continuación se encuentra un listado ordenado alfabéticamente de las distint
 
 En caso de tener mayor detalles, se incluye un link en el listado hacia un archivo con información detallada.
 
-# Listado de Comunidades
+# Listado de Comunidades 
+
+## Sede en Guadalajara y alrededores
 
 1. [Facebook Developer Circle Guadalajara](perfiles/devcgdl.md)
 2. [TechWo](perfiles/techwo.md)
 3. [GDLJS](perfiles/gdljs.md)
 4. [GeekGirls](perfiles/GeekGirls.md)
 5. [TechQuiero](perfiles/TechQuiero)
+1. [GDLJS](perfiles/gdljs.md) 
+1. [PHPGDL](perfiles/phpgdl.md) 
+1. [J4Guanatos](perfiles/j4guanatos.md)
+1. [TechWo](perfiles/techwo.md)
+1. [GDLJS](perfiles/gdljs.md)
+1. [Geek Girls Mx](perfiles/GeekGirls.md) 
+1. [GeekGirls](perfiles/GeekGirls.md)
+1. [Unity User Group GDL](perfiles/unitygdl.md)
+
+## Sede en Colima y alrededores
+
+1. [Colima HackLab](perfiles/ColimaHacklab.md)
+1. [TestingTalks Colima](perfiles/TestingTalks.md)
+1. [WDT](perfiles/wdt.md)
+
+## Sede en CDMX y alrededores
+
+1. [Girls in tech](perfiles/GirlsInTech.md)
+
+## A nivel nacional (sin sede)
+
+1. [Woman Lab](perfiles/womanLab.md)
+
