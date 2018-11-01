@@ -27,6 +27,7 @@ En caso de tener mayor detalles, se incluye un link en el listado hacia un archi
 1. [Geek Girls Mx](perfiles/GeekGirls.md) 
 1. [GeekGirls](perfiles/GeekGirls.md)
 1. [Unity User Group GDL](perfiles/unitygdl.md)
+1. [Wordpress Guadalajara](perfiles/wordpressgdl.md)
 
 ## Sede en Colima y alrededores
 
