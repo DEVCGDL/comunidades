@@ -30,8 +30,9 @@ En caso de tener mayor detalles, se incluye un link en el listado hacia un archi
 
 ## Sede en Colima y alrededores
 
-1. [Colima HackLab](perfiles/ColimaHacklab.md)
-1. [TestingTalks Colima](perfiles/TestingTalks.md)
+1. [Colima HackLab] (perfiles/ColimaHacklab.md)
+1. [TestingTalks Colima] (perfiles/TestingTalks.md)
+1. [Thinking Couch](perfiles/thinkingcouch.md)
 1. [WDT](perfiles/wdt.md)
 
 ## Sede en CDMX y alrededores
