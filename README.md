@@ -19,6 +19,11 @@ En caso de tener mayor detalles, se incluye un link en el listado hacia un archi
 ## Sede en Guadalajara y alrededores
 
 1. [Facebook Developer Circle Guadalajara](perfiles/devcgdl.md)
+2. [TechWo](perfiles/techwo.md)
+3. [GDLJS](perfiles/gdljs.md)
+4. [GeekGirls](perfiles/GeekGirls.md)
+5. [TechQuiero](perfiles/TechQuiero)
+6. [MujeresWOW](perfiles/MujeresWOW)
 1. [GDLJS](perfiles/gdljs.md) 
 1. [PHPGDL](perfiles/phpgdl.md) 
 1. [J4Guanatos](perfiles/j4guanatos.md)
@@ -42,3 +47,4 @@ En caso de tener mayor detalles, se incluye un link en el listado hacia un archi
 ## A nivel nacional (sin sede)
 
 1. [Woman Lab](perfiles/womanLab.md)
+
